@@ -1,6 +1,6 @@
 # Arduino-Based-Light-Measurement-Sys
-# Automatic Blinds Controlled by Light Sensor
 
+## Automatic Blinds Controlled by Light Sensor
 An Arduino-based system that automatically opens/closes window blinds based on ambient light levels using a photoresistor and micro servo.
 
 ## Team Project Info
