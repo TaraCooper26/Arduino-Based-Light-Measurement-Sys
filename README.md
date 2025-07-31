@@ -10,7 +10,7 @@ An Arduino-based system that automatically opens/closes window blinds based on a
 - Semester: Spring 2025
 
 ## Components Used
-- Ardunino Uno R3
+- Arduino Uno R3
 - Photoresistor (LDR)
 - Micro Servo Motor
 - LCD Display (16x2)
@@ -31,5 +31,13 @@ An Arduino-based system that automatically opens/closes window blinds based on a
 ## 📊 Results & Analysis
 - Exponential relationship between lux and output voltage  
 - Voltage converted to lux:  
-  `Lux = 2.7189 * exp(2.7675 * Voltage)`
+  `Lux = 2.7189 * exp(2.7675 * Voltage)
 - Accuracy verified using Light Meter app
+
+## ✅ Conclusion
+The prototype successfully demonstrated light-based automation for blinds, paving the way for smarter and affordable home systems.
+
+## 📚 References
+- Arduino Projects Book (2015)
+- NSW Teachers Federation: Uncertainty & Confidence
+- Jeff Christenson on Photoresistors (2019)
